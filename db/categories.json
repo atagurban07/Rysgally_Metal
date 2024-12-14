@@ -1,0 +1,14 @@
+{"_id":{"$oid":"667413a1e6bc638b933eea91"},"name":"Ählisi","__v":{"$numberInt":"0"},"nameEn":"All","nameRu":"Все","nameTr":"Hepsi"}
+{"_id":{"$oid":"66851ae42b8f8a6defbddc58"},"name":"Loft Metal","__v":{"$numberInt":"0"},"nameEn":"Loft Metal","nameRu":"Loft Metal","nameTr":"Loft Metal"}
+{"_id":{"$oid":"66925f89d33fbe632ce5418d"},"name":"Metal Gapylar","__v":{"$numberInt":"0"},"nameEn":"Metal Doors","nameRu":"Металлические двери","nameTr":"Metal Kapılar"}
+{"_id":{"$oid":"66925fa9d33fbe632ce54192"},"name":"Giriş Gapylar","__v":{"$numberInt":"0"},"nameEn":"Entrance Doors","nameRu":"Входные двери","nameTr":"Giriş Kapıları"}
+{"_id":{"$oid":"66925fbdd33fbe632ce54196"},"name":"Howpsuzlyk Gapylary","__v":{"$numberInt":"0"},"nameEn":"Fire Doors","nameRu":"Противопожарные двери","nameTr":"Yangın Kapıları"}
+{"_id":{"$oid":"66925fcfd33fbe632ce5419a"},"name":"Elektrik Paneller","__v":{"$numberInt":"0"},"nameEn":"Electrical Panels","nameRu":"Электрические панели","nameTr":"Elektrik Panelleri"}
+{"_id":{"$oid":"66925fe4d33fbe632ce5419e"},"name":"Howpsuzlyk şkafy","__v":{"$numberInt":"0"},"nameEn":"Fire Cabinets","nameRu":"Пожарные шкафы","nameTr":"Yangın Dolapları"}
+{"_id":{"$oid":"66925ff7d33fbe632ce541a2"},"name":"Howpsuzlyk Aksesuarlary","__v":{"$numberInt":"0"},"nameEn":"Fire Accessories","nameRu":"Оборудование для пожара","nameTr":"Yangın Aksesuarları"}
+{"_id":{"$oid":"6692602dd33fbe632ce541a9"},"name":"Agyr ýük Tekjeleri","__v":{"$numberInt":"0"},"nameEn":"Heavy Load Shelves","nameRu":"Полки для тяжелых грузов","nameTr":"Ağır Yük Rafları"}
+{"_id":{"$oid":"6692603bd33fbe632ce541ad"},"name":"Ýeňil ýük Tekjeleri","__v":{"$numberInt":"0"},"nameEn":"Light Load Shelves","nameRu":"Полки для легких грузов","nameTr":"Hafif Yük Rafları"}
+{"_id":{"$oid":"66926059d33fbe632ce541b1"},"name":"Market Tekjeleri","__v":{"$numberInt":"0"},"nameEn":"Market Shelves","nameRu":"Полки для магазинов","nameTr":"Market Rafları"}
+{"_id":{"$oid":"66926068d33fbe632ce541b5"},"name":"Demir Şkaflar","__v":{"$numberInt":"0"},"nameEn":"Metal Cabinets","nameRu":"Металлические шкафы","nameTr":"Çelik Dolaplar"}
+{"_id":{"$oid":"66926076d33fbe632ce541b9"},"name":"Serwer şkaflar","__v":{"$numberInt":"0"},"nameEn":"Server Cabinets","nameRu":"Серверные шкафы","nameTr":"Sunucu Dolaplar"}
+{"_id":{"$oid":"6692607dd33fbe632ce541bd"},"name":"Derwezeler","__v":{"$numberInt":"0"},"nameEn":"Gates","nameRu":"Ворота","nameTr":"Kapılar"}

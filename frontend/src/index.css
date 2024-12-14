@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* * {
+  font-family: 'Poppins', sans-serif;
+} */
+
+.main {
+  transition: 1s;
+}
+
+body {
+  background: #0f0f10;
+  color: #fff;
+
+}
+
+.light .main {
+  background: #7c99d8;
+  /* color: whi; */
+}
+
+input,
+textarea {
+  color: #000;
+}

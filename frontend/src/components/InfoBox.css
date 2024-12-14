@@ -1,0 +1,102 @@
+/* .infoboxes {
+    display: flex;
+    margin-left: 5rem;
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+}
+
+.info-box {
+    display: flex;
+    width: 40rem;
+    max-width: 20rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    padding-left: 2px;
+    background-color: #0f0f10;
+
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    padding: 1px;
+
+}
+
+@media (max-width: 600px) {
+    .infoboxes {
+        flex-wrap: wrap;
+        margin-left: 60px;
+    }
+
+    .info-box {
+        width: 25rem;
+        max-width: 10rem;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 992px) {
+    .infoboxes {
+        flex-wrap: wrap;
+        margin-left: 40px;
+    }
+
+    .info-box {
+        display: flex;
+        max-width: 8rem;
+    }
+} */
+
+
+
+
+
+.infoboxes {
+    display: flex;
+    flex-wrap: wrap;
+    /* Infoboxes wrap onto the next line */
+    justify-content: center;
+    /* Center infoboxes horizontally */
+    margin-left: 5%;
+    /* Left margin as a percentage */
+    margin-right: 5%;
+    /* Right margin as a percentage */
+    margin-bottom: 1rem;
+}
+
+.info-box {
+    display: flex;
+    /* flex: 1 1 20rem; */
+    width: 16rem;
+    /* Flexbox properties for flexible sizing */
+    margin: 0.5rem;
+    /* Adjusted margin for spacing between boxes */
+    padding: 1rem;
+    /* Increased padding for better spacing */
+    border: 1px solid #ccc;
+    background-color: #0f0f10;
+    color: #fff;
+    /* Text color set to white */
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    padding: 1px;
+    /* Adjust padding as needed */
+}
+
+@media (max-width: 778px) {
+    .info-box {
+        width: 12rem;
+        padding-left: 10px;
+    }
+}
+
+@media (min-width: 778px) and (max-width: 992px) {
+    .info-box {
+        width: 9.7rem;
+    }
+}
